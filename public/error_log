@@ -1,0 +1,6 @@
+[31-Mar-2017 21:21:46 Asia/Bangkok] PHP Warning:  require(/home/cp157440/public_html/farmerspace.co../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/index.php on line 22
+[31-Mar-2017 21:21:46 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '/home/cp157440/public_html/farmerspace.co../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cp157440/public_html/farmerspace.co/index.php on line 22
+[02-Jun-2017 00:25:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in /home/cp157440/public_html/laravel/storage/framework/views/a6f7d20664a653b2075e898a15f601c529e140fe.php on line 141
+[02-Jun-2017 00:42:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cp157440/public_html/laravel/storage/framework/views/381bf68246fffaea81c166505f3f95ddac025fe6.php on line 127
+[13-Jun-2017 14:29:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/cp157440/public_html/laravel/app/Http/Controllers/Admins/MyArticleController.php on line 28
+[30-Jun-2017 10:18:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '!' in /home/cp157440/public_html/laravel/storage/framework/views/3f44d7fb9ff2c8d7df4fcc811532db74948af85f.php on line 174

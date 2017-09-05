@@ -1,0 +1,1090 @@
+[10-Aug-2017 11:51:50 Asia/Bangkok] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 4
+[10-Aug-2017 12:05:04 Asia/Bangkok] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 4
+[10-Aug-2017 12:06:58 Asia/Bangkok] PHP Fatal error:  Class 'sqlsrv_connect' not found in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 4
+[10-Aug-2017 12:13:40 Asia/Bangkok] PHP Fatal error:  Class 'sqlsrv_connect' not found in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 4
+[11-Aug-2017 16:12:51 Asia/Bangkok] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 6
+[22-Aug-2017 16:30:31 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 63
+[22-Aug-2017 16:30:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 63
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:37:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:39:56 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:41:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:42:03 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 16:43:19 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:07:38 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:11:41 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:13:30 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:13:32 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:14:55 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:18:35 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:19:37 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:19:49 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:20:13 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 33
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:20:46 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 33
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:21:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:21:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:21:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:26:27 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:27:00 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:29:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:31:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:31:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:32:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'UserID' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 12
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'ProductName' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 13
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Species' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 14
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Detail' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 15
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Price' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 16
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Quantity' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 17
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'HarvestDay' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 18
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Address' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 19
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'SubDistrict' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 20
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'District' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 21
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Province' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 22
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Zipcode' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 23
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Latitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 24
+[22-Aug-2017 17:33:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'Longitude' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 25
+[22-Aug-2017 17:34:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:35:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:35:37 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 33
+[22-Aug-2017 17:38:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:39:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:39:21 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 29
+[22-Aug-2017 17:39:55 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 42
+[22-Aug-2017 17:40:29 Asia/Bangkok] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'B000001' for key 'PRIMARY' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:37
+Stack trace:
+#0 /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php(37): PDO->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 37
+[22-Aug-2017 17:41:03 Asia/Bangkok] PHP Notice:  Undefined variable: BuyingID in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 33
+[22-Aug-2017 17:41:03 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 40
+[22-Aug-2017 17:45:51 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:46:18 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:46:25 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:47:03 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:47:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:47:22 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 6
+[22-Aug-2017 17:48:16 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 40
+[22-Aug-2017 17:49:02 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 31
+[22-Aug-2017 17:57:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 32
+[22-Aug-2017 17:58:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 32
+[22-Aug-2017 17:58:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 32
+[23-Aug-2017 12:50:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 32
+[23-Aug-2017 12:56:57 Asia/Bangkok] PHP Notice:  Undefined variable: sth in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 35
+[23-Aug-2017 12:56:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 35
+[23-Aug-2017 12:57:13 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 45
+[23-Aug-2017 12:58:14 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 12:58:24 Asia/Bangkok] PHP Notice:  Undefined variable: new_id in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 46
+[23-Aug-2017 12:58:24 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 12:58:39 Asia/Bangkok] PHP Notice:  Undefined variable: new_id in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 46
+[23-Aug-2017 12:58:39 Asia/Bangkok] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'B000000' for key 'PRIMARY' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:52
+Stack trace:
+#0 /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php(52): PDO->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 52
+[23-Aug-2017 12:58:47 Asia/Bangkok] PHP Notice:  Undefined variable: new_id in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 46
+[23-Aug-2017 12:58:47 Asia/Bangkok] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'B000000' for key 'PRIMARY' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:52
+Stack trace:
+#0 /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php(52): PDO->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 52
+[23-Aug-2017 12:59:02 Asia/Bangkok] PHP Notice:  Undefined variable: new_id in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 46
+[23-Aug-2017 12:59:02 Asia/Bangkok] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'B000000' for key 'PRIMARY' in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:52
+Stack trace:
+#0 /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php(52): PDO->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 52
+[23-Aug-2017 13:00:20 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:00:49 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:00:56 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:00:57 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:00:58 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:01:00 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:01:01 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:01:03 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:01:04 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:01:06 Asia/Bangkok] PHP Notice:  Undefined variable: response in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 57
+[23-Aug-2017 13:08:51 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bundParam() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 51
+[23-Aug-2017 13:15:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bundParam() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 53
+[23-Aug-2017 13:15:54 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bundParam() in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 53
+[23-Aug-2017 13:20:36 Asia/Bangkok] PHP Notice:  Undefined variable: AcceptCondition in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 71
+[23-Aug-2017 13:20:36 Asia/Bangkok] PHP Notice:  Undefined variable: CreateDate in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 72
+[23-Aug-2017 13:21:03 Asia/Bangkok] PHP Notice:  Undefined variable: CreateDate in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 72
+[24-Aug-2017 13:17:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:17:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:17:42 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:18:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:20:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:20:20 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:20:20 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:20:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:21:11 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:21:11 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:21:37 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:21:37 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:21:47 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:21:47 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:22:27 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:22:27 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:23:02 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:23:02 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:23:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:24:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 112
+[24-Aug-2017 13:24:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 112
+[24-Aug-2017 13:25:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:25:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 64
+[24-Aug-2017 13:26:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:26:46 Asia/Bangkok] PHP Warning:  include_once(../_connect.php): failed to open stream: No such file or directory in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:26:46 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '../_connect.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 2
+[24-Aug-2017 13:27:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:27:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:28:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 59
+[24-Aug-2017 13:30:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 78
+[24-Aug-2017 13:31:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 74
+[24-Aug-2017 13:31:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 74
+[24-Aug-2017 13:35:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 112
+[24-Aug-2017 13:36:02 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 112
+[24-Aug-2017 13:36:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 78
+[24-Aug-2017 13:36:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 78
+[24-Aug-2017 13:37:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 100
+[24-Aug-2017 13:37:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/cp157440/public_html/farmerspace.co/api/_insertProduct.php on line 100
+[24-Aug-2017 14:01:50 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:01:53 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:02:11 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:03:36 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:06:31 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:06:32 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:06:33 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:07:02 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:07:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 10
+[24-Aug-2017 14:07:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 10
+[24-Aug-2017 14:07:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/_connect.php on line 10
+[24-Aug-2017 14:08:03 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:10:17 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:10:17 Asia/Bangkok] PHP Warning:  mb_split() expects at least 2 parameters, 1 given in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 21
+[24-Aug-2017 14:10:36 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:10:36 Asia/Bangkok] PHP Warning:  mb_split() expects at least 2 parameters, 1 given in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 21
+[24-Aug-2017 14:10:47 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:10:47 Asia/Bangkok] PHP Warning:  mb_split() expects at least 2 parameters, 1 given in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 21
+[24-Aug-2017 14:11:20 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:11:20 Asia/Bangkok] PHP Notice:  Use of undefined constant String - assumed 'String' in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 21
+[24-Aug-2017 14:11:20 Asia/Bangkok] PHP Notice:  Array to string conversion in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 21
+[24-Aug-2017 14:11:40 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:13:04 Asia/Bangkok] PHP Notice:  Undefined variable: bodyInsertProduct in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:28:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 14:35:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetchObjectAll() in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 19
+[24-Aug-2017 14:38:34 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:38:34 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:38:34 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:38:54 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:38:54 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:38:54 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:39:03 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:39:03 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 14:39:03 Asia/Bangkok] PHP Notice:  Undefined variable: fetchResult in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 20
+[24-Aug-2017 15:08:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 15:48:49 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 15:49:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 15:49:38 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 15:54:03 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[24-Aug-2017 15:54:18 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/_selectProduct.php on line 10
+[25-Aug-2017 14:09:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cp157440/public_html/farmerspace.co/api/postFarmerProduct.php on line 37
+[25-Aug-2017 14:11:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cp157440/public_html/farmerspace.co/api/postFarmerProduct.php on line 37
+[28-Aug-2017 14:43:38 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:47:58 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:48:49 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:49:20 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:50:07 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:50:24 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 14:50:28 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 14
+[28-Aug-2017 16:43:08 Asia/Bangkok] PHP Notice:  Undefined variable: UserType in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 18
+[28-Aug-2017 16:43:08 Asia/Bangkok] PHP Notice:  Undefined variable: UserType in /home/cp157440/public_html/farmerspace.co/api/getProductById.php on line 38
+[28-Aug-2017 17:38:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:41:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:41:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:43:15 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:43:15 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:43:34 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:43:34 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:45:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 36
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 37
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 38
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 39
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 40
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 42
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 43
+[28-Aug-2017 17:46:19 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 44
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 36
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 37
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 38
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 39
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 40
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 42
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 43
+[28-Aug-2017 17:46:45 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 44
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 40
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 44
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:47:59 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 40
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 44
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 40
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 44
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:49:08 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:49:33 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:49:47 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:49:56 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:50:14 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:50:14 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:50:49 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:51:02 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:51:23 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:51:23 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:52:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:52:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:53:00 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:53:00 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:53:09 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:53:09 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 14
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 16
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 36
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 37
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 38
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 60
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 61
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 62
+[28-Aug-2017 17:54:19 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 63
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:54:43 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:54:44 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:54:56 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:54:57 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 20
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 21
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 22
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 23
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 24
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 25
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 26
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 27
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 28
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 29
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 30
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 31
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 32
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 33
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 34
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: RequestID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 45
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: UserID in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 46
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: ProductName in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 47
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Species in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 48
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Detail in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 49
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Price in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 50
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Quantity in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 51
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: HarvestDay in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 52
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Address in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 53
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: SubDistrict in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 54
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: District in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 55
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Province in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 56
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Zipcode in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 57
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Latitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 58
+[28-Aug-2017 17:55:12 Asia/Bangkok] PHP Notice:  Undefined index: Longitude in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 59
+[28-Aug-2017 17:57:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:57:40 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:57:40 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:57:40 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:57:40 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 41
+[28-Aug-2017 17:58:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:58:19 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:58:19 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:58:31 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:58:31 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:58:31 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 17:58:40 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 17:58:40 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 17:58:40 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 18:00:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 18:00:08 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 18:00:08 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 18:00:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 18:00:12 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 18:00:12 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 18:00:27 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 18:00:27 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 18:00:27 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 18:00:39 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 18:00:39 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 18:00:39 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[28-Aug-2017 18:01:35 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 10
+[28-Aug-2017 18:01:35 Asia/Bangkok] PHP Notice:  Undefined index: UserType in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 12
+[28-Aug-2017 18:01:35 Asia/Bangkok] PHP Notice:  Undefined variable: table in /home/cp157440/public_html/farmerspace.co/api/putProduct.php on line 35
+[29-Aug-2017 15:40:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:57:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:58:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:59:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:59:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:59:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 11
+[29-Aug-2017 15:59:50 Asia/Bangkok] PHP Notice:  Undefined variable: tables in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 21
+[29-Aug-2017 15:59:54 Asia/Bangkok] PHP Notice:  Undefined variable: tables in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 21
+[29-Aug-2017 16:00:11 Asia/Bangkok] PHP Notice:  Undefined variable: tables in /home/cp157440/public_html/farmerspace.co/api/deleteProduct.php on line 21
